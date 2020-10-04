@@ -1,0 +1,73 @@
+.navbar-brand{
+    font-weight: bolder;
+}
+nav div{
+    margin-top: 3vh;
+    font-weight: bold;
+    
+}
+.bg-img{
+    background-image: url(images/bg-img.png);
+    width: 100%;
+    height: 140vh;
+
+}
+nav{
+    color: white;
+}
+.texts{
+    padding-left: 9%;
+    padding-top: 30vh;
+    color: white;
+}
+.texts h1{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.texts button{
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    border-color:rgb(243, 109, 109);
+}
+.card{
+    width: 300px;
+    height: 45vh;
+    padding-left: 1.5%;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    
+}
+.card i{
+    margin-top: 7vh;
+}
+.card h2{
+    margin-top: 5vh;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card p{
+    margin-top: 3vh;
+}
+.cards{
+    margin-top: 130px;
+}
+.fa{
+    color: rgb(243, 109, 109);
+}
+.card:hover{
+    background-color: rgb(243, 109, 109);
+}
+.card:hover i{
+    color: white;
+}
+button:hover{
+    background-color:  rgb(243, 109, 109);
+}
+.scrolling-active{
+    background-color: rgb(22, 22, 22);
+}
